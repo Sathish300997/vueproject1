@@ -433,7 +433,7 @@ define([
       },
       menuTitle: {
         type: String,
-        default: "sathish",
+        default: "sathish ",
       },
 
      
